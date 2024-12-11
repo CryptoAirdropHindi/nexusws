@@ -36,3 +36,21 @@
    CTRL A+D
 ---
 <br>
+
+#Old user use this command line by line
+```
+screen -r nexus
+
+cd
+
+cd .nexus
+
+ls
+
+nano prover-id
+
+cd
+
+cd nexus
+
+curl https://cli.nexus.xyz/ | sh
