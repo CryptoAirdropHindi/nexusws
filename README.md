@@ -54,3 +54,5 @@ cd
 cd nexus
 
 curl https://cli.nexus.xyz/ | sh
+```
+<br>
