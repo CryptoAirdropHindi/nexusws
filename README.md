@@ -48,7 +48,9 @@ cd .nexus
 ls
 
 nano prover-id
-
+```
+ctrl+x+y enter Save the prover-id
+```
 cd
 
 cd nexus
